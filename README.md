@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi 👋 I'm Kassu
+
+- 🔭 I’m currently finishing my software engineering degree 📚
+- 🌱 I’m currently learning [Rust language](https://github.com/topics/rust) and 🕹️ game development (there's always more to learn)
+- 🤝 I’m looking to collaborate on 🎮 videogame, web, and IOT projects
+- ⚡ Fun fact: I'm not actually this obnoxious with emojis 😅 This template put them everywhere and I just rolled with it 🧻
 
 <!--
-**ksyri/ksyri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
