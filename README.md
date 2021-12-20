@@ -1,9 +1,11 @@
 ### Hi 👋 I'm Kassu
 
 - 🔭 I’m currently finishing my software engineering degree 📚
-- 🌱 I’m currently learning [Rust language](https://github.com/topics/rust) and 🕹️ game development (there's always more to learn)
+- 🌱 I’m currently learning 🕹️ game development (there's always more to learn)
 - 🤝 I’m looking to collaborate on 🎮 videogame, web, and IOT projects
-- ⚡ Fun fact: I'm not actually this obnoxious with emojis 😅 This template put them everywhere and I just rolled with it 🧻
+
+[![Parser Card](https://github-readme-stats.vercel.app/api/pin/?username=glooca&repo=parser&theme=dark)](https://github.com/glooca/parser)
+[![PubSub Card](https://github-readme-stats.vercel.app/api/pin/?username=glooca&repo=pubsub&theme=dark)](https://github.com/glooca/pubsub)
 
 <!--
 Here are some ideas to get you started:
