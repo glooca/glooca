@@ -1,21 +1,10 @@
-### Hi 👋 I'm Kassu
+### Hi, I'm Kassu
 
-- 🔭 I’m currently finishing my software engineering degree 📚
-- 🌱 I’m currently learning 🕹️ game development (there's always more to learn)
-- 🤝 I’m looking to collaborate on 🎮 videogame, web, and IOT projects
+Currently,
+- I'm working on a customer project
+- I'm developing mods for Minecraft
+
+Check out some of my pet projects
 
 [![Parser Card](https://github-readme-stats.vercel.app/api/pin/?username=glooca&repo=parser&theme=dark)](https://github.com/glooca/parser)
 [![PubSub Card](https://github-readme-stats.vercel.app/api/pin/?username=glooca&repo=pubsub&theme=dark)](https://github.com/glooca/pubsub)
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
