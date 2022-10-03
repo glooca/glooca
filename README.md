@@ -2,7 +2,7 @@
 
 Currently,
 - I'm working on a customer project
-- I'm developing mods for Minecraft
+- I'm working on way too many personal projects 😅
 
 Check out some of my pet projects
 
