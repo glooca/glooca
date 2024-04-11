@@ -1,10 +1,7 @@
 ### Hi, I'm Kassu
 
-Currently,
-- I'm working on a customer project
-- I'm working on way too many personal projects 😅
-
-Check out some of my pet projects
-
-[![Parser Card](https://github-readme-stats.vercel.app/api/pin/?username=glooca&repo=parser&theme=dark)](https://github.com/glooca/parser)
-[![PubSub Card](https://github-readme-stats.vercel.app/api/pin/?username=glooca&repo=pubsub&theme=dark)](https://github.com/glooca/pubsub)
+Currently I'm likely to be
+- working on a customer project
+- working on one of my way too many personal projects that I'm never going to finish 😅
+- mindlessly watching youtube to destress
+- playing videogames
